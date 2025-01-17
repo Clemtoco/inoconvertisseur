@@ -8,4 +8,3 @@ Voici une liste de tâches à réaliser parmi les fonctionnalités demandées qu
   - Valeur initiale + devise
   - Valeur calculée + devise
 
-- Publier l'application sur GitHub Pages pour une démonstration en ligne.
